@@ -1,0 +1,16 @@
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\obj\Debug\net8.0-windows\ProyectoFigurasGeometricas.Form1.resources
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\obj\Debug\net8.0-windows\ProyectoFigurasGeometricas.csproj.GenerateResource.cache
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\obj\Debug\net8.0-windows\ProyectoFigurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\obj\Debug\net8.0-windows\ProyectoFigurasGeometricas.AssemblyInfoInputs.cache
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\obj\Debug\net8.0-windows\ProyectoFigurasGeometricas.AssemblyInfo.cs
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\obj\Debug\net8.0-windows\ProyectoFigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\bin\Debug\net8.0-windows\ProyectoFigurasGeometricas.exe
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\bin\Debug\net8.0-windows\ProyectoFigurasGeometricas.deps.json
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\bin\Debug\net8.0-windows\ProyectoFigurasGeometricas.runtimeconfig.json
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\bin\Debug\net8.0-windows\ProyectoFigurasGeometricas.dll
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\bin\Debug\net8.0-windows\ProyectoFigurasGeometricas.pdb
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\obj\Debug\net8.0-windows\ProyectoFigurasGeometricas.dll
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\obj\Debug\net8.0-windows\refint\ProyectoFigurasGeometricas.dll
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\obj\Debug\net8.0-windows\ProyectoFigurasGeometricas.pdb
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\obj\Debug\net8.0-windows\ProyectoFigurasGeometricas.genruntimeconfig.cache
+C:\Users\FLORES\source\repos\ProyectoFigurasGeometricas\ProyectoFigurasGeometricas\obj\Debug\net8.0-windows\ref\ProyectoFigurasGeometricas.dll
